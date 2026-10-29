@@ -1,35 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
-  <svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Total VDO logo">
-    <defs>
-      <filter id="softShadow" x="-30%" y="-30%" width="160%" height="180%">
-        <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
-      </filter>
-    </defs>
-
-    <!-- left dark text -->
-    <text x="30" y="198"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="238"
-          font-weight="800"
-          fill="#1e1e1f"
-          letter-spacing="-10">total</text>
-
-    <!-- pink rounded banner -->
-    <rect x="388" y="40" width="772" height="196" rx="28" fill="#F51C7B" filter="url(#softShadow)"/>
-
-    <!-- right white text -->
-    <text x="548" y="198"
-          font-family="Arial, Helvetica, sans-serif"
-          font-size="238"
-          font-weight="800"
-          fill="#FFFFFF"
-          letter-spacing="-10">VDO</text>
-
-    <!-- play button -->
-    <circle cx="1040" cy="138" r="56" fill="#FFFFFF"/>
-    <polygon points="1016,108 1078,138 1016,168" fill="#F51C7B"/>
   </svg>
 </p>
 
